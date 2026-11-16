@@ -1,0 +1,19 @@
+
+# Environment secrets
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Test files
+test-image.png
+
+# Build output
+dist/
+coverage/
+
+# Logs
+npm-debug.log*
+
+!.env.example
